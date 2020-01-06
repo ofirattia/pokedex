@@ -1,6 +1,6 @@
 # Pokedex
 
-[![Travis](https://img.shields.io/travis/ofirattia/pokedex/master.svg?style=flat-square)](https://api.travis-ci.com/ofirattia/pokedex.svg?branch=master)
+[![Build Status](https://travis-ci.com/ofirattia/pokedex.svg?branch=master)](https://travis-ci.com/ofirattia/pokedex)
 
 
 List of pokemons on the basis of React + Redux
