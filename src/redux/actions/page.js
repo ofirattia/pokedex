@@ -33,7 +33,7 @@ export function getPokemons() {
       dispatch({
         type: GET_POKEMONS_SUCCESS
       })
-      mockData.results = mockData.results.slice(0, 100)
+      mockData.results = mockData.results.slice(0, 10)
       dispatch(setPokemons(mockData))
       dispatch(filterPokemons())
     } else {
